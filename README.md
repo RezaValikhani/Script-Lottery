@@ -10,7 +10,7 @@ The lottery script is an advanced process developed with php language. Using thi
  English
  </a>
  /
- <a href="/Gozargah/Marzban/blob/master/README-fa.md">
+ <a href="/README-Fa.md">
  فارسی
  </a>
 </p>
