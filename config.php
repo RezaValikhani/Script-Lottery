@@ -9,9 +9,9 @@
  */
 
 $Host = "localhost";
-$dataBase = "sources1_lott"; // DataBase UserName
-$userName = "sources1_lott"; // DataBase UserName
-$Password = "%D42gV7i9x1^"; // DataBase PassWord
+$dataBase = "..."; // DataBase UserName
+$userName = "..."; // DataBase UserName
+$Password = "..."; // DataBase PassWord
 $setName = array(PDO::MYSQL_ATTR_INIT_COMMAND => "SET NAMES utf8");
 
 try{
